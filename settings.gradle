@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "PrimeFinder-Starter"
+rootProject.name = "PrimeFinder-Final"
